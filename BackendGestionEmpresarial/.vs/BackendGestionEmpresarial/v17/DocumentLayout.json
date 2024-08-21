@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaelm\\source\\repos\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE390A39-59BE-4D0C-AE70-9A14B04D84A7}|BackendGestionEmpresarial\\BackendGestionEmpresarial.csproj|c:\\users\\gaelm\\source\\repos\\backendgestionempresarial\\backendgestionempresarial\\backendgestionempresarial\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE390A39-59BE-4D0C-AE70-9A14B04D84A7}|BackendGestionEmpresarial\\BackendGestionEmpresarial.csproj|solutionrelative:backendgestionempresarial\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE390A39-59BE-4D0C-AE70-9A14B04D84A7}|BackendGestionEmpresarial\\BackendGestionEmpresarial.csproj|c:\\users\\gaelm\\source\\repos\\backendgestionempresarial\\backendgestionempresarial\\backendgestionempresarial\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE390A39-59BE-4D0C-AE70-9A14B04D84A7}|BackendGestionEmpresarial\\BackendGestionEmpresarial.csproj|solutionrelative:backendgestionempresarial\\models\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE390A39-59BE-4D0C-AE70-9A14B04D84A7}|BackendGestionEmpresarial\\BackendGestionEmpresarial.csproj|c:\\users\\gaelm\\source\\repos\\backendgestionempresarial\\backendgestionempresarial\\backendgestionempresarial\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE390A39-59BE-4D0C-AE70-9A14B04D84A7}|BackendGestionEmpresarial\\BackendGestionEmpresarial.csproj|solutionrelative:backendgestionempresarial\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\gaelm\\source\\repos\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "BackendGestionEmpresarial\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\gaelm\\source\\repos\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "BackendGestionEmpresarial\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAvwG4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:17:45.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\gaelm\\source\\repos\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\Models\\Empleados.cs",
+              "RelativeDocumentMoniker": "BackendGestionEmpresarial\\Models\\Empleados.cs",
+              "ToolTip": "C:\\Users\\gaelm\\source\\repos\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\Models\\Empleados.cs",
+              "RelativeToolTip": "BackendGestionEmpresarial\\Models\\Empleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:58:51.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\gaelm\\source\\repos\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\Controllers\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "BackendGestionEmpresarial\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\gaelm\\source\\repos\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\BackendGestionEmpresarial\\Controllers\\DepartamentoController.cs",
+              "RelativeToolTip": "BackendGestionEmpresarial\\Controllers\\DepartamentoController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:17:30.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
